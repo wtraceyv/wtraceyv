@@ -1,13 +1,13 @@
 <div align="center">
   <img src="glitch-w-dark-draft.png" alt="Big W logo">
-  <p>***Doesn't care for emojis</p>
+  <p>does not care for emojis</p>
 </div>
 
 <hr>
 
 Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [Oxford Comma](https://en.wikipedia.org/wiki/Serial_comma).
 
-### Links
+## Links
 
 <ul>
   <li><a href="https://wtraceyv.github.io/personal-site-basic/">Personal Website</a></li>
@@ -16,7 +16,12 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
 <a href="https://www.linkedin.com/in/walter-tracey-01b14419b?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://gitlab.com/wtraceyv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /></a>
 
-### Languages/Skills
+## Languages/Skills
+<div>
+  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro" />
+  <p>:)</p>
+</div>
+
 #### Web
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
@@ -39,6 +44,7 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
 
 #### Systems/General Purpose
 <div>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="bash" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
@@ -51,6 +57,6 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
 </div>
 
-### Articles/Ideas I like
+## Articles/Ideas I like
 - [The best engineering interview question I’ve ever gotten, Part 2](https://quuxplusone.github.io/blog/2022/01/07/memcached-interview-solution/)
 - [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/)
