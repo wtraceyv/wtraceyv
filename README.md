@@ -17,10 +17,6 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
 <a href="https://gitlab.com/wtraceyv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /></a>
 
 ## Languages/Skills
-<div>
-  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro" />
-  <p>:)</p>
-</div>
 
 #### Web
 <div>
