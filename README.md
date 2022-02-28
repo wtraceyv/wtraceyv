@@ -14,7 +14,6 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
   <li><a href="https://gitlab.com/noahmigoski/gravity-game">Home of Gravity Game on GitLab</a></li>
 </ul>
 <a href="https://www.linkedin.com/in/walter-tracey-01b14419b?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://gitlab.com/wtraceyv"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" /></a>
 
 ## Languages/Skills
 
@@ -46,11 +45,15 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
 </div>
+<div>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+</div>
 
 #### Engines
 <div>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="godot" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+  <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal" />
 </div>
 
 ## Articles/Ideas I like
