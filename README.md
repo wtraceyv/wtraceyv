@@ -7,6 +7,9 @@
 
 Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [Oxford Comma](https://en.wikipedia.org/wiki/Serial_comma).
 
+<details align="center">
+<summary><samp>Links and Skills</samp></summary>
+
 ## Links
 
 <ul>
