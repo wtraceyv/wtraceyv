@@ -17,7 +17,7 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
 ## Links
 
 <ul>
-  <li><a href="https://wtraceyv.github.io/personal-site-basic/">Personal Website</a></li>
+  <li><a href="https://wtraceyv.github.io">Portfolio Site</a></li>
   <li><a href="https://gitlab.com/noahmigoski/gravity-game">Home of Gravity Game on GitLab</a></li>
 </ul>
 <a href="https://www.linkedin.com/in/walter-tracey-01b14419b?trk=people-guest_people_search-card"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
