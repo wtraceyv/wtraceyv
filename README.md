@@ -66,3 +66,4 @@ Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [
 ## Articles/Ideas I like
 - [The best engineering interview question I’ve ever gotten, Part 2](https://quuxplusone.github.io/blog/2022/01/07/memcached-interview-solution/)
 - [https://motherfuckingwebsite.com/](https://motherfuckingwebsite.com/)
+- [Doug Mcilroy's Unix Philosophy](https://programmingphilosophy.org/posts/doug-mcilroy-the-unix-philosophy/)
