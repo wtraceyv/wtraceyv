@@ -7,10 +7,6 @@
 
 Comp Sci graduate from Ohio; interested in systems, games, web, audio, and the [Oxford Comma](https://en.wikipedia.org/wiki/Serial_comma).
 
-<div>
-<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtraceyv&layout=compact&hide_border=true&theme=tokyonight"/>
-</div>
-
 <details align="center">
 <summary><samp>Links and Skills</samp></summary>
 
